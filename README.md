@@ -29,7 +29,7 @@ This project utilizes a modern and efficient WordPress setup to ensure performan
 * **Security-First Approach**: Integrated professional-grade security to ensure site integrity and protection against intrusions.
 
 ## 🔗 Live Demo
-[(https://www.urmihalder.com/blogsite)]
+[https://www.urmihalder.com/blogsite]
 
 ---
 *Built by Urmi Halder. This repository serves as a documentation hub for the project's technical configuration and design methodology.*
